@@ -7,7 +7,7 @@
 | 프로젝트 | 설명 | 기술 스택 | 링크 |
 |----------|------|-----------|------|
 | **CART VITAL** | 병원 환자 바이탈 실시간 모니터링 대시보드 | React, Recharts, Tailwind | [Live Demo](https://ajsiwkvue-sudo.github.io/dashboard-projects/) · [Code](https://github.com/ajsiwkvue-sudo/dashboard-projects/tree/main/cart-vital-dashboard) |
-| **Med XAI** | 다발성 장기부전 예측 + XAI 근거 시각화 대시보드 | React, Vite, Recharts, Tailwind | [Code](https://github.com/ajsiwkvue-sudo/dashboard-projects/tree/main/med-xai-dashboard) |
+| **Med XAI** | 다발성 장기부전 예측 + XAI 근거 시각화 대시보드 | React, Vite, Recharts, Tailwind | [Live Demo](https://ajsiwkvue-sudo.github.io/dashboard-projects/med-xai/) · [Code](https://github.com/ajsiwkvue-sudo/dashboard-projects/tree/main/med-xai-dashboard) |
 | **Smart Solution** | 병동 민원 관리 대시보드 | Flask, SQLite, Chart.js | [Code](https://github.com/ajsiwkvue-sudo/dashboard-projects/tree/main/smart-solution-dashboard) |
 
 ### 📚 Study
